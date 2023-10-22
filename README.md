@@ -2,7 +2,7 @@
 https://github.com/jasperdegens/strata-frontend-exercise
 
 ## Deplyed Link
-https://leaderboard-test-strata.vercel.app/　
+https://leaderboard-test-strata.vercel.app/
 
 ## Installation
 
